@@ -1,6 +1,6 @@
 
 
-The following isreleased:
+The following is released:
 
 -   Schematic
 -   B.O.M (Bill Of Materials)
