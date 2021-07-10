@@ -4,7 +4,7 @@ The following is released:
 
 -   Schematic
 -   B.O.M (Bill Of Materials)
--   Geber Files
+-   Gerber Files
 -   Software binaries
 
 
@@ -36,13 +36,13 @@ Overview of used parts
 
 [Private-MODCHIP](https://flamingo-tech.nl/wp-content/uploads/2021/07/Private-MODCHIP-1.xlsx).
 
-## Geber Files:
+## Gerber Files:
 
 ![](https://flamingo-tech.nl/wp-content/uploads/2021/07/image-32-1024x513.png)
 
 Xiaomi Modchip
 
-Geber Files:  
+Gerber Files:  
 
 [Xiaomi-Modchip](https://flamingo-tech.nl/wp-content/uploads/2021/07/Xiaomi-Modchip.ip)
 
