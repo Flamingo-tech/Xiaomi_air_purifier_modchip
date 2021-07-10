@@ -1,7 +1,6 @@
 
-After a couple of weeks of making this modchip available publicly I want to make it opensource. So everyone can enjoy it  
 
-The following will be released:
+The following isreleased:
 
 -   Schematic
 -   B.O.M (Bill Of Materials)
