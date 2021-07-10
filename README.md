@@ -8,13 +8,15 @@ The following will be released:
 -   Geber Files
 -   Software binaries
 
-(see below)
 
 I will write the following tutorials:
 
 -   How to flash your Modchip
--   How to order your Modchip  see below
 -   Explanation of how the software works.
+
+These can be found:
+1. Place holder
+2. Place holder
 
 ## Schematic:
 
