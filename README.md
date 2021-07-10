@@ -69,4 +69,4 @@ Xiaomi_MOD_PRO: Is a binary for the modchip. (how to upload tutorial will follow
 
 WARNING: these .ELF files are for the MODCHIP don’t upload them to the air purifier itself.
 
-PS. If you make or use these files it would appreciate it if you left a comment!
+PS. If you make or use these files it would appreciate it if you leave a comment.
