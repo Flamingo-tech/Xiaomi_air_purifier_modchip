@@ -1,6 +1,6 @@
 After open sourcing the mod chip I wanted to give some insights on how the mod-chip itself works.
 
-open source info: [click](https://flamingo-tech.nl/2021/07/10/xiaomi-modchip-open-source/)
+Open source info: [click](https://flamingo-tech.nl/2021/07/10/xiaomi-modchip-open-source/)
 
 ![](https://flamingo-tech.nl/wp-content/uploads/2021/07/image-34-1024x642.png)
 
@@ -28,7 +28,7 @@ From an ease of entry standpoint it's just easier to swap out the NFC board than
 Now to the juicy bits, How does it work:  
 When you open the filter door or turn on the the air purifier the device will communicate over I2C with the filters.  
 Right before first communication is done it will pull the PWDOWN line low.  
-so the first piece of the code is (ofc after all the STM32 settings):
+So the first piece of the code is (ofc after all the STM32 settings):
 
 ![](https://flamingo-tech.nl/wp-content/uploads/2021/07/image-36.png)
 
@@ -70,7 +70,7 @@ void HAL_I2C_AddrCallback(I2C_HandleTypeDef *hi2c, uint8_t TransferDirection, ui
 	}
 ```
 
-the rx_counter is important, why: see code above.  
+The rx_counter is important, why: see code above.  
 Every time the air purifier sends a message on the I2C bus and PWDON ==0 it will check if we need to send a message or receive a message. If we need to send a message (thus respond to previous messages) I will do rx_counter++ (+1). (I do the same if we need to receive something)  
 Then I mapped all the response in a list:
 
