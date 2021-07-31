@@ -1,11 +1,10 @@
 
-After a couple of weeks of making this modchip available publicly I want to make it opensource. So everyone can enjoy it  
 
-The following will be released:
+The following is released:
 
 -   Schematic
 -   B.O.M (Bill Of Materials)
--   Geber Files
+-   Gerber Files
 -   Software binaries
 
 
@@ -37,13 +36,13 @@ Overview of used parts
 
 [Private-MODCHIP](https://flamingo-tech.nl/wp-content/uploads/2021/07/Private-MODCHIP-1.xlsx).
 
-## Geber Files:
+## Gerber Files:
 
 ![](https://flamingo-tech.nl/wp-content/uploads/2021/07/image-32-1024x513.png)
 
 Xiaomi Modchip
 
-Geber Files:  
+Gerber Files:  
 
 [Xiaomi-Modchip](https://flamingo-tech.nl/wp-content/uploads/2021/07/Xiaomi-Modchip.ip)
 
@@ -61,6 +60,7 @@ There is no need to have a black pcb (This just looks nice, I like my PCBA’s t
 ## Software Binaries
 
 [Xiaomi_MOD_V1.0](https://flamingo-tech.nl/wp-content/uploads/2021/07/Xiaomi_MOD_V1.0-2.elf)
+
 [Xiaomi_MOD_PRO](https://flamingo-tech.nl/wp-content/uploads/2021/07/Xiaomi_MOD_PRO.elf)
 
 Xiaomi_MOD_V1.0: Is a binary for the modchip. (how to upload tutorial will follow later) Supports : Xiaomi air purifier 3H and 3C
