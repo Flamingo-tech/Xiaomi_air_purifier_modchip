@@ -1,21 +1,28 @@
 <a href="https://www.tindie.com/stores/theflamingo/?ref=offsite_badges&utm_source=sellers_TheFlamingo&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
-The following is released:
-
--   Schematic
--   B.O.M (Bill Of Materials)
--   Gerber Files
--   Software binaries
 
 
-I will write the following tutorials:
+## Compatibility list:
 
--   How to flash your Modchip
--   Explanation of how the software works.
+|   Xiaomi Air Purifier:         |Compatible:	| Tested| Tested By                         
+|----------------|-------------------------------|-----------------------------|-----------------------------|
+|1|❌|❌|❌
+|2S|✔️|✔️|[TheFlamingo](https://github.com/Flamingo-tech)    
+|2H|❔|❌|-
+|2C|❔|❌|-       
+|3H|✔️|✔️| [tuxuser](https://github.com/tuxuser) & [The Flamingo](https://github.com/Flamingo-tech)
+|3C|❔|❌|
+|PRO|✔️|✔️|  [The Flamingo](https://github.com/Flamingo-tech)    
+|PRO H|❔|❌|-
+|MAX|❔|❌|-
+|F1|❔|❌|-
 
-These can be found:
-1. Place holder
-2. Place holder
+❔= Untested , If you are able to verify or test , Send me an email.
+
+✔️= Works/tested
+
+❌= Does not work or is untested
+
 
 ## Schematic:
 
