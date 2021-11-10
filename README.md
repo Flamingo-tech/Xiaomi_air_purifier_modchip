@@ -13,7 +13,7 @@
 |3H|✔️|✔️| [tuxuser](https://github.com/tuxuser) & [The Flamingo](https://github.com/Flamingo-tech)
 |3C|❔|❌|
 |PRO|✔️|✔️|  [The Flamingo](https://github.com/Flamingo-tech)    
-|PRO H|❔|❌|-
+|PRO H|✔️|✔️| [The Flamingo](https://github.com/Flamingo-tech)
 |MAX|❔|❌|-
 |F1|❔|❌|-
 
