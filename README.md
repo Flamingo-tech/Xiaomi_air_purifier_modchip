@@ -51,7 +51,7 @@ Xiaomi Modchip
 
 Gerber Files:  
 
-[Xiaomi-Modchip](https://flamingo-tech.nl/wp-content/uploads/2021/07/Xiaomi-Modchip.ip)
+[Xiaomi-Modchip](https://github.com/Flamingo-tech/Xiaomi_air_purifier_modchip/raw/main/MODCHIP.zip)
 
 For security reasons .zip was renamed to .ip. If you want to open these files rename the filename to Xiaomi-Modchip.zip
 
